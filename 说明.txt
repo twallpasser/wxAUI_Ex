@@ -1,0 +1,8 @@
+基于wxWidgets 3.1.2版本的aui库增加了停靠定位锚点功能和增加tab页管理功能
+
+配置：
+和原aui库代码目录一致
+wxAUI_Ex/include/wx/aui_custom        ---> <WXDIR>/include/wx/aui_custom
+wxAUI_Ex/src/aui_custom               ---> <WXDIR>/src/aui_custom
+wxAUI_Ex/wx_vc9_aui_custom.vcproj     ---> <WXDIR>/build/msw
+
